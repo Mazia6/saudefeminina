@@ -1,5 +1,5 @@
 .doutores{
-  background-image: url("../img/doctor/desk.jpg");
+  background-color: #F05F40;
   background-repeat: no-repeat;
   background-size: 100%;
 }
@@ -30,6 +30,7 @@
   background-color: white;
   border: solid black 1px;
   margin-right: 60px;
+  text-align: center;
 }
 
 .alinhamento{
